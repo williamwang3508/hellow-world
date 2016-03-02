@@ -3,7 +3,7 @@
 ## add doc line 2
 ## add doc line 3
 def hello
-puts 'hello mundo'
+puts 'hello master'
 end
 hello()
 
