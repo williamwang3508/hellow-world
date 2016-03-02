@@ -4,7 +4,7 @@
 ## add doc line 3
 def hello
 ## add more tests
-puts 'hello world'
+puts 'hello mundo'
 end
 hello()
 
